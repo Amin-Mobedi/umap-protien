@@ -384,5 +384,5 @@ for cond in conds:
         plt.tight_layout()
         
         
-        plt.savefig(f"output_paper_iteration/{cond}/{kinase}_inhibited.png", dpi=300)
+        plt.savefig(f"output/{cond}/{kinase}_inhibited.png", dpi=300)
         plt.close()
