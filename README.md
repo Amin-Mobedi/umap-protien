@@ -17,7 +17,7 @@ This script visualizes predicted subcellular localizations of kinase substrates 
 ## 📁 Required Files
 
 * `human_compartment_integrated_full.tsv`: GO-based compartment scores
-* List of input genes
+* List of input genes for plotting
 * Condition folders (e.g., `HG_vs_LG/`) with:
 
   * `activated_ser_thr_percentile_ranks_thresh_10.xlsx`
